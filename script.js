@@ -44,7 +44,7 @@ function randomStock () {
 
     if (myrandom==0){
         stop();
-        let audio = document.getElementById("audio0");
+        let audio0 = document.getElementById("audio0");
          audio0.play();
         document.getElementById("stockpic").src ="assets/skip.jpg";
         document.getElementById("stockbutton").innerHTML = "AGAIN"
