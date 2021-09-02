@@ -4,21 +4,27 @@
     border: 5px;
     padding: 10px;
     border-radius: 150%;
+    height: 300px;
+    width: 300px;
+    box-shadow: 2px 2px 0 0 green;
+    background-color: linear-gradient (to bottom, #000000 10%, #06571e 80%);;
     
     
 }
 
 #stockbutton {
     
-    border-radius: 5px;
+    border-radius: 20%;
     border-color: green;
     padding: 2px;
     margin: 2px;
     font-size:30px ;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     height: 50px;
     display:block;
     margin:auto;
+    box-shadow: 2px 2px 0px 0px rgb(1, 49, 27);
+    background-color: linear-gradient (to bottom, #000000 10%, #033613 100%);;
 
     
 }
